@@ -6,3 +6,4 @@ fifth line
 sixth line
 seventh line
 added line 8 in local
+added line 9 in remote
